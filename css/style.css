@@ -82,7 +82,7 @@ form{
 	transition: .3s;
 }
 .input-div:before, .input-div:after{
-	content:'55555';
+	content:'';
 	position: absolute;
 	bottom: -2px;
 	width:0%;
